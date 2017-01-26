@@ -1,6 +1,5 @@
 The Rainbow is very bright and colorful!
-color
-color
+
 
 purple
 pink
