@@ -18,3 +18,6 @@ You can make more colors by combining two or more.
 
 Red Yellow Blue Green 
 Primary colors are Red, Blue, Yellow!
+
+Secondary and tertiary will add some fun
+It is all in how the design is done
