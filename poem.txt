@@ -12,3 +12,5 @@ red
 
 These are the colors of the rainbow.
 You can make more colors by combining two or more.
+
+Red Yellow Blue Green 
